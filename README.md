@@ -7,6 +7,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -15,6 +16,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -27,6 +29,7 @@ practice problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -54,6 +57,7 @@ practice problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0290-word-pattern/) | Easy |
