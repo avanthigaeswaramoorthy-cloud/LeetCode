@@ -7,6 +7,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -16,6 +17,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -67,4 +69,8 @@ practice problems
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
