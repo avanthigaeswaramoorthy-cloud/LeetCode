@@ -8,6 +8,7 @@ practice problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -64,6 +65,7 @@ practice problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
