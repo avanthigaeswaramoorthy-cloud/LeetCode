@@ -10,6 +10,7 @@ practice problems
 | [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -36,6 +37,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -60,6 +62,7 @@ practice problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
