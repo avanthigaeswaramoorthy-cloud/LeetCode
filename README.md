@@ -21,6 +21,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -57,6 +58,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
@@ -69,6 +71,7 @@ practice problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
