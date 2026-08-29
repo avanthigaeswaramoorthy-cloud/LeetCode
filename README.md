@@ -7,6 +7,7 @@ practice problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -65,6 +66,7 @@ practice problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -85,4 +87,8 @@ practice problems
 | ------- | ------- |
 | [0136-single-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
