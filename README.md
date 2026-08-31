@@ -10,6 +10,7 @@ practice problems
 | [0014-longest-common-prefix](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -92,6 +93,7 @@ practice problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
