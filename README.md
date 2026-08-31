@@ -73,6 +73,7 @@ practice problems
 | [0125-valid-palindrome](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
@@ -86,6 +87,7 @@ practice problems
 | [0205-isomorphic-strings](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/avanthigaeswaramoorthy-cloud/LeetCode/tree/main/0383-ransom-note/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
